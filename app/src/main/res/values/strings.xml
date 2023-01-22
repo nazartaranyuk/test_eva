@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnsplashTestTask</string>
+    <string name="like_button">Like button</string>
+    <string name="main_image">Main image</string>
+    <string name="posted_at">Posted at %s</string>
+    <string name="go_to_favorites">Go to favorites</string>
+</resources>
