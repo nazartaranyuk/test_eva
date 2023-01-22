@@ -5,7 +5,6 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.nazartaraniuk.unsplashtesttask.domain.ProvideListPhotosUseCase
 import com.nazartaraniuk.unsplashtesttask.domain.SavePhotoUseCase
-import com.nazartaraniuk.unsplashtesttask.domain.repositories.NetworkRepository
 import com.nazartaraniuk.unsplashtesttask.presentation.mappers.toPhotoUI
 import com.nazartaraniuk.unsplashtesttask.presentation.mappers.toUnsplashImageDomain
 import com.nazartaraniuk.unsplashtesttask.presentation.models.PhotoImageUI

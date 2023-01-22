@@ -1,7 +1,7 @@
 package com.nazartaraniuk.unsplashtesttask.presentation.detail_screen
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.nazartaraniuk.unsplashtesttask.R
 import com.nazartaraniuk.unsplashtesttask.databinding.ActivityDetailBinding

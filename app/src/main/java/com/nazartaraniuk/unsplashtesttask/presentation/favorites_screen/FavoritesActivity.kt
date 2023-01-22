@@ -1,9 +1,9 @@
 package com.nazartaraniuk.unsplashtesttask.presentation.favorites_screen
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.bumptech.glide.Glide
 import com.nazartaraniuk.unsplashtesttask.MainApplication

@@ -3,7 +3,6 @@ package com.nazartaraniuk.unsplashtesttask.presentation.detail_screen
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.nazartaraniuk.unsplashtesttask.domain.SavePhotoUseCase
-import com.nazartaraniuk.unsplashtesttask.domain.repositories.LocalRepository
 import com.nazartaraniuk.unsplashtesttask.presentation.mappers.toUnsplashImageDomain
 import com.nazartaraniuk.unsplashtesttask.presentation.models.PhotoImageUI
 import kotlinx.coroutines.Dispatchers
